@@ -1,0 +1,3 @@
+C:\Code\OOP.2.2 - WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.csprojAssemblyReference.cache
+C:\Code\OOP.2.2 - WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.AssemblyInfoInputs.cache
+C:\Code\OOP.2.2 - WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.AssemblyInfo.cs
